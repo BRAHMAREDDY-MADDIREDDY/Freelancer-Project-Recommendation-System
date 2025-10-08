@@ -49,7 +49,7 @@ This model integrates both content-based and collaborative filtering approaches 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/DSA_1_Freelancer_Project_recommnedation_Sytstem.git
+[git clone https://github.com/DSA_1_Freelancer_Project_recommnedation_Sytstem.git](https://github.com/BRAHMAREDDY-MADDIREDDY/Freelancer-Project-Recommendation-System.git)
 cd DSA_1_Freelancer_Project_recommnedation_Sytstem
 ```
 
